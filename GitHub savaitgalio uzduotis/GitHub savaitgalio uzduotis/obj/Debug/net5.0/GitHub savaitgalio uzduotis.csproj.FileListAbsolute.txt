@@ -1,0 +1,16 @@
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\bin\Debug\net5.0\GitHub savaitgalio uzduotis.exe
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\bin\Debug\net5.0\GitHub savaitgalio uzduotis.deps.json
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\bin\Debug\net5.0\GitHub savaitgalio uzduotis.runtimeconfig.json
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\bin\Debug\net5.0\GitHub savaitgalio uzduotis.runtimeconfig.dev.json
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\bin\Debug\net5.0\GitHub savaitgalio uzduotis.dll
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\bin\Debug\net5.0\ref\GitHub savaitgalio uzduotis.dll
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\bin\Debug\net5.0\GitHub savaitgalio uzduotis.pdb
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\obj\Debug\net5.0\GitHub savaitgalio uzduotis.csproj.AssemblyReference.cache
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\obj\Debug\net5.0\GitHub savaitgalio uzduotis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\obj\Debug\net5.0\GitHub savaitgalio uzduotis.AssemblyInfoInputs.cache
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\obj\Debug\net5.0\GitHub savaitgalio uzduotis.AssemblyInfo.cs
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\obj\Debug\net5.0\GitHub savaitgalio uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\obj\Debug\net5.0\GitHub savaitgalio uzduotis.dll
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\obj\Debug\net5.0\ref\GitHub savaitgalio uzduotis.dll
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\obj\Debug\net5.0\GitHub savaitgalio uzduotis.pdb
+C:\Users\Arnas\Documents\GitHub\GitHub-savaitgalio\GitHub savaitgalio uzduotis\GitHub savaitgalio uzduotis\obj\Debug\net5.0\GitHub savaitgalio uzduotis.genruntimeconfig.cache
